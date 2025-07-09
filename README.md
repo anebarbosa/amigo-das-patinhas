@@ -60,6 +60,7 @@ O pacote br.com.amigodaspatinhas.animais modela o domínio do sistema, com todas
 ---
 
 ## 🗂️ Estrutura do Projeto
+```text
 br/com/amigodaspatinhas/
 ├── Main.java                  # Classe principal para simulação
 ├── autenticacao/
@@ -79,7 +80,7 @@ br/com/amigodaspatinhas/
 │   └── Vacinacao.java         # Vacinacao
 └── util/
     └── Endereco.java          # Classe para endereços
-
+```
 ## 📄 Diagrama de Classes
 ![Diagrama de Classes 1](./Diagrama_de_Classes_1.jpg)
 ![Diagrama de Classes 2](./Diagrama_de_Classes_2.jpg)
