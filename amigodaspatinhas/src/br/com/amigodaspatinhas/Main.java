@@ -32,7 +32,7 @@ public class Main {
         );
         LocalDate nascimentoUsuario = LocalDate.of(2000, 4, 10); // 10/04/2000
         UsuarioComum usuario = new UsuarioComum(
-            "Bob", "bob@email.com", "user123",
+            "João", "joao@email.com", "user123",
             "12345678900", "RG123456",
             "85 99999-9999", enderecoUsuario,
             nascimentoUsuario

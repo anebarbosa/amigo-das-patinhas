@@ -2,6 +2,7 @@ package br.com.amigodaspatinhas.usuarios;
 
 import br.com.amigodaspatinhas.autenticacao.Autenticavel;
 
+// CLASSE ABSTRATA
 public abstract class Usuario implements Autenticavel {
     private String nome;
     private String email;

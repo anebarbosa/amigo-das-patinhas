@@ -6,6 +6,7 @@ import br.com.amigodaspatinhas.animais.AdocaoSolicitacao;
 import br.com.amigodaspatinhas.animais.Animal;
 import br.com.amigodaspatinhas.util.Endereco;
 
+// HERANÇA
 public class UsuarioComum extends Usuario {
     private String cpf;
     private String rg;
