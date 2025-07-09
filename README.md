@@ -81,5 +81,5 @@ br/com/amigodaspatinhas/
     └── Endereco.java          # Classe para endereços
 
 ## 📄 Diagrama de Classes
-![Diagrama de Classes 1](./DiagramaDeClasses1.jpg)
-![Diagrama de Classes 2](./DiagramaDeClasses2.jpg)
+![Diagrama de Classes 1](./Diagrama de Classes 1.jpg)
+![Diagrama de Classes 2](./Diagrama de Classes 2.jpg)
